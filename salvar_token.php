@@ -1,0 +1,1 @@
+<?php // Lógica de token aqui ?>
